@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TracNghiem>
+	<!--Bai tap ve dong vat-->
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="1">Dog</ans>
+		<ans flag="0">Crocodile</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="0">Snake</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="1">Bat</ans>
+		<ans flag="0">Rhinoceros</ans>
+		<ans flag="0">Koala bear</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Giraffe</ans>
+		<ans flag="0">Sheep</ans>
+		<ans flag="1">Chicken</ans>
+		<ans flag="0">Snake</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Bear</ans>
+		<ans flag="0">Beaver</ans>
+		<ans flag="0">Skunk</ans>
+		<ans flag="1">Cow</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="1">Crocodile</ans>
+		<ans flag="0">Tiger</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="0">Turtle</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Leopard</ans>
+		<ans flag="1">Duck</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="0">Ostrich</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Monkey</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="1">Elephant</ans>
+		<ans flag="0">Fox</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Goat</ans>
+		<ans flag="0">Pig</ans>
+		<ans flag="0">Umbrella Bird</ans>
+		<ans flag="1">Fish</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="1">Horse</ans>
+		<ans flag="0">Lion</ans>
+		<ans flag="0">Giraffe</ans>
+		<ans flag="0">Chipmunk</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Crocodile</ans>
+		<ans flag="1">Kangaroo</ans>
+		<ans flag="0">Hippopotamus</ans>
+		<ans flag="0">Snake</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Crocodile</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="1">Lion</ans>
+		<ans flag="0">Snake</ans>
+	</dv>
+
+	<dv><BaiTap></BaiTap>
+		<ans flag="0">Sheep</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="0">Cat</ans>
+		<ans flag="1">Snake</ans>
+	</dv>
+
+	<dv><BaiTap></BaiTap>
+		<ans flag="1">Tiger</ans>
+		<ans flag="0">Donkey</ans>
+		<ans flag="0">Cat</ans>
+		<ans flag="0">Wolf</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Crocodile</ans>
+		<ans flag="1">Turtle</ans>
+		<ans flag="0">Rabbit</ans>
+		<ans flag="0">Hamster</ans>
+	</dv>
+
+	<dv>
+		<BaiTap></BaiTap>
+		<ans flag="0">Pony </ans>
+		<ans flag="1">Umbrella Bird</ans>
+		<ans flag="0">Fox</ans>
+		<ans flag="0">Ostrich</ans>
+	</dv>
+
+
+	<!--Bai tap dien vao cho trong-->
+	<blank>
+		<BaiTap>The sun __ in the east. (rise)</BaiTap>
+		<ans flag="1">rises </ans>
+		<ans flag="0">rise</ans>
+		<ans flag="0">rising</ans>
+		<ans flag="0">is rising</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>She usually __ breakfast at 7 AM. (eat)</BaiTap>
+		<ans flag="1">eats </ans>
+		<ans flag="0">eat</ans>
+		<ans flag="0">eating</ans>
+		<ans flag="0">is eating</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>Birds __ in the trees. (sing)</BaiTap>
+		<ans flag="1">sing </ans>
+		<ans flag="0">sings</ans>
+		<ans flag="0">singing</ans>
+		<ans flag="0">is singing</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>The train __ at 8:45 AM. (leave)</BaiTap>
+		<ans flag="1">leaves </ans>
+		<ans flag="0">leave</ans>
+		<ans flag="0">leaving</ans>
+		<ans flag="0">is leaving</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>The sun __ in the east.(rise)</BaiTap>
+		<ans flag="1">rises </ans>
+		<ans flag="0">rise</ans>
+		<ans flag="0">rising</ans>
+		<ans flag="0">is rising</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>They __ to the beach every summer. (go)</BaiTap>
+		<ans flag="1">go </ans>
+		<ans flag="0">goes</ans>
+		<ans flag="0">going</ans>
+		<ans flag="0">is going</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>The cat __ on the couch right now. (sit)</BaiTap>
+		<ans flag="1">is sitting </ans>
+		<ans flag="0">sits</ans>
+		<ans flag="0">sit</ans>
+		<ans flag="0">sitting</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>She often __ a book in the evening. (read)</BaiTap>
+		<ans flag="1">reads </ans>
+		<ans flag="0">read</ans>
+		<ans flag="0">reading</ans>
+		<ans flag="0">is reading</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>Water __ at 100 degrees Celsius. (boil)</BaiTap>
+		<ans flag="1">boils </ans>
+		<ans flag="0">boil</ans>
+		<ans flag="0">boiling</ans>
+		<ans flag="0">is boiling</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>He __ French and Spanish. (speak)</BaiTap>
+		<ans flag="1">speaks </ans>
+		<ans flag="0">speak</ans>
+		<ans flag="0">speaking</ans>
+		<ans flag="0">is speaking</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>We __ to the gym twice a week. (go)</BaiTap>
+		<ans flag="1">go </ans>
+		<ans flag="0">goes</ans>
+		<ans flag="0">going</ans>
+		<ans flag="0">is going</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>She __ to music while she works. (listen)</BaiTap>
+		<ans flag="1">is listening </ans>
+		<ans flag="0">listens</ans>
+		<ans flag="0">listen</ans>
+		<ans flag="0">listening</ans>
+	</blank>
+
+	<blank>
+		<BaiTap>The Earth __ around the sun. (revolve)</BaiTap>
+		<ans flag="1">revolves </ans>
+		<ans flag="0">revolve</ans>
+		<ans flag="0">revolving</ans>
+		<ans flag="0">is revolving</ans>
+	</blank>
+
+
+	<!--Bai tap nghia tieng anh-->
+	<viet>
+		<BaiTap>Máy bay</BaiTap>
+		<ans flag="1">Plane</ans>
+		<ans flag="0">Bus</ans>
+		<ans flag="0">Train</ans>
+		<ans flag="0">Submarine</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Căn nhà</BaiTap>
+		<ans flag="0">Hospital</ans>
+		<ans flag="1">House</ans>
+		<ans flag="0">Market</ans>
+		<ans flag="0">millitary base</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Lâu đài</BaiTap>
+		<ans flag="0">Cinema</ans>
+		<ans flag="0">Nest</ans>
+		<ans flag="1">Castle</ans>
+		<ans flag="0">Ocean</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Đại dương</BaiTap>
+		<ans flag="0">Mainland</ans>
+		<ans flag="0">Sea</ans>
+		<ans flag="0">Sky</ans>
+		<ans flag="1">Ocean</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Tàu vũ trụ</BaiTap>
+		<ans flag="1">Spaceship</ans>
+		<ans flag="0">Missile</ans>
+		<ans flag="0">Gun</ans>
+		<ans flag="0">Car</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Tivi</BaiTap>
+		<ans flag="0">Telephone</ans>
+		<ans flag="1">Television</ans>
+		<ans flag="0">Entertainment</ans>
+		<ans flag="0">Advertisement</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Phim hành động</BaiTap>
+		<ans flag="0">Romantic</ans>
+		<ans flag="0">Sitcom</ans>
+		<ans flag="1">Action movie</ans>
+		<ans flag="0">Drama</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Tên lửa</BaiTap>
+		<ans flag="0">Advertisement</ans>
+		<ans flag="0">Gun</ans>
+		<ans flag="0">Mainland</ans>
+		<ans flag="1">Missile</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Tủ lạnh</BaiTap>
+		<ans flag="1">Refrigerator</ans>
+		<ans flag="0">Stove</ans>
+		<ans flag="0">Sofa</ans>
+		<ans flag="0">Chair</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Đèn điện</BaiTap>
+		<ans flag="0">Window</ans>
+		<ans flag="0">Refrigerator</ans>
+		<ans flag="1">Electric lights</ans>
+		<ans flag="0">Television</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Bức tranh</BaiTap>
+		<ans flag="1">Picture</ans>
+		<ans flag="0">Missile</ans>
+		<ans flag="0">Gun</ans>
+		<ans flag="0">Car</ans>
+	</viet>
+
+	<viet>
+		<BaiTap>Cái bàn</BaiTap>
+		<ans flag="0">Telephone</ans>
+		<ans flag="1">Table</ans>
+		<ans flag="0">Entertainment</ans>
+		<ans flag="0">Advertisement</ans>
+	</viet>
+</TracNghiem>
+

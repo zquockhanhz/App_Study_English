@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LyThuyet>
+	<Ten>THÌ HIỆN TẠI ĐƠN</Ten>
+	<Chinh>
+		(+) S + V(s/es) + O
+		(-) S + don’t/ doesn’t + V + O
+		(?) Do/Does + V + O?
+	</Chinh>
+	<VD>Henry does not study hard.</VD>
+	<VD>Do you usually play badminton? </VD>
+
+	<Ten>THÌ HIỆN TẠI TIẾP DIỄN</Ten>
+	<Chinh>
+		(+) S + am/ are/ is + Ving + O
+		(-) S + am/ are/ is + not + Ving + O
+		(?) Am/ are/ is + S + Ving + O?
+	</Chinh>
+	<VD>Is Jane watching a movie? </VD>
+	<VD>My mother is not wearing a coat.</VD>
+
+	<Ten>THÌ HIỆN TẠI HOÀN THÀNH</Ten>
+	<Chinh>
+		(+)  S + have/ has + Ved/PII + O
+		(-) S + have/ has + not + Ved/PII + O
+		(?) Have/ has + S + V-ed/PIII + O?
+	</Chinh>
+	<VD>My family has lived in Los Angeles for 3 years.</VD>
+	<VD>Jane has not seen Tommy since 2010. </VD>
+	
+	
+</LyThuyet>

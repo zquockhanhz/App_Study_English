@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Game>
+	<Wordle>
+		<word>HAPPY</word>
+		<word>HOUSE</word>
+		<word>MOUSE</word>
+		<word>HORSE</word>
+		<word>SUSHI</word>
+		<word>NINJA</word>
+		<word>CATCH</word>
+		<word>LIMIT</word>
+		<word>LIGHT</word>
+		<word>LOVER</word>
+		<word>NIGHT</word>
+		<word>NEVER</word>
+		<word>NOVEL</word>
+		<word>DANCE</word>
+		<word>DELAY</word>
+		<word>DEVIL</word>
+		<word>DEPTH</word>
+		<word>BLOOD</word>
+		<word>BLACK</word>
+		<word>BEGIN</word>
+		<word>MAGIC</word>
+		<word>TRAIN</word>
+		<word>SPACE</word>
+		<word>DEATH</word>
+		<word>GAMER</word>
+		<word>LOCAL</word>
+		<word>LEMON</word>
+		<word>VILLA</word>
+		<word>VIRAL</word>
+	</Wordle>
+</Game>

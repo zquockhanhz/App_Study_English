@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TracNghiem>
+	<Grammar>
+		<BaiTap>_____ of them has been turned in stone.</BaiTap>
+		<ans flag="1">Even one</ans>
+		<ans flag="0">No one</ans>
+		<ans flag="0">Not one</ans>
+		<ans flag="0">No</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Which thief got a fright? _______ with the money.</BaiTap>
+		<ans flag="1">The one</ans>
+		<ans flag="0">He</ans>
+		
+		<ans flag="0">Him</ans>
+		<ans flag="0">That</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Erna's friends will be on the coast. That's where _______ of them will be.</BaiTap>
+		<ans flag="1">Most</ans>
+		<ans flag="0">More</ans>
+		<ans flag="0">The most</ans>
+		<ans flag="0">The more</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>We are all very excited_______ are very excited.</BaiTap>
+		<ans flag="1">All of us</ans>
+		<ans flag="0">All me</ans>
+		<ans flag="0">Us all</ans>
+		<ans flag="0">All us</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>They didn't steal anything. They stole_______.</BaiTap>
+		<ans flag="1">Nothing</ans>
+		<ans flag="0">Anything</ans>
+		<ans flag="0">Not anything</ans>
+		<ans flag="0">Not nothing</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>He wasn't noticed by_______ as he crept off the boat.</BaiTap>
+		<ans flag="1">Anyone</ans>
+		<ans flag="0">No one</ans>
+		<ans flag="0">None</ans>
+		<ans flag="0">Not one</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>John, what is that noise? Is there_______ on the street?</BaiTap>
+		<ans flag="1">Something</ans>
+		<ans flag="0">Nothing</ans>
+		<ans flag="0">Anything</ans>
+		<ans flag="0">None thing</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Please take these papers and give_______ to Mike.</BaiTap>
+		<ans flag="1">Them</ans>
+		<ans flag="0">It</ans>
+		<ans flag="0">One</ans>
+		<ans flag="0">That</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Tom asked Ann and_______ about the new theatre.</BaiTap>
+		<ans flag="1">Me</ans>
+		<ans flag="0">I</ans>
+		<ans flag="0">My</ans>
+		<ans flag="0">Self</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Janice and _______ live in an apartment.</BaiTap>
+		<ans flag="1">I</ans>
+		<ans flag="0">Me</ans>
+		<ans flag="0">My</ans>
+		<ans flag="0">Self</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Tom is going to lose_______  job.</BaiTap>
+		<ans flag="1">His</ans>
+		<ans flag="0">Him</ans>
+		<ans flag="0">He</ans>
+		<ans flag="0">He's</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>A very large snake killed_______ victims.</BaiTap>
+		<ans flag="0">His</ans>
+		<ans flag="0">Her</ans>
+		<ans flag="1">Its</ans>
+		<ans flag="0">It</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>I don't want you to pay for me. I'll pay for_______</BaiTap>
+		<ans flag="0">Yourself</ans>
+		<ans flag="0">Me</ans>
+		<ans flag="0">Mine</ans>
+		<ans flag="1">Myself</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>It's our own fault. We blame_______</BaiTap>
+		<ans flag="1">Ourselves</ans>
+		<ans flag="0">Ours</ans>
+		<ans flag="0">Us</ans>
+		<ans flag="0">Out</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Tom and Ann stood in front of the mirror and looked at _______</BaiTap>
+		<ans flag="0">Each other</ans>
+		<ans flag="0">Them</ans>
+		<ans flag="0">Herself</ans>
+		<ans flag="1">Themselves</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Tom looked at Ann; Ann looked at Tom. They looked at______</BaiTap>
+		<ans flag="0">Themselves</ans>
+		<ans flag="0">Them</ans>
+		<ans flag="1">Each other</ans>
+		<ans flag="0">Together</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Domestic eats often show loyalty to them owners by leaving freshly killed prey such as birds for_______ to find.</BaiTap>
+		<ans flag="0">They</ans>
+		<ans flag="1">Them</ans>
+		<ans flag="0">He</ans>
+		<ans flag="0">their</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>The United States and Canada have many trade agreements that benefit_______</BaiTap>
+		<ans flag="1">Each other</ans>
+		<ans flag="0">On the other</ans>
+		<ans flag="0">Other</ans>
+		<ans flag="0">Other one</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>James is very interested in mathematians and _______ applications.</BaiTap>
+		<ans flag="1">Its</ans>
+		<ans flag="0">Their</ans>
+		<ans flag="0">Them</ans>
+		<ans flag="0">It</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>My picture is different from_______</BaiTap>
+		<ans flag="0">Them</ans>
+		<ans flag="1">Theirs</ans>
+		<ans flag="0">They</ans>
+		<ans flag="0">Themselves</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>He asked _______ to leave the office then.</BaiTap>
+		<ans flag="0">Our</ans>
+		<ans flag="0">Ours</ans>
+		<ans flag="1">Us</ans>
+		<ans flag="0">We</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>You and_______ have to finish this before noon.</BaiTap>
+		<ans flag="0">Mine</ans>
+		<ans flag="0">My</ans>
+		<ans flag="0">Me</ans>
+		<ans flag="1">I</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Mr. Scott has a garage. The garage is_______</BaiTap>
+		<ans flag="1">His</ans>
+		<ans flag="0">To him</ans>
+		<ans flag="0">Of him</ans>
+		<ans flag="0">His</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Everybody knows him, ______ know him.</BaiTap>
+		<ans flag="1">They all</ans>
+		<ans flag="0">Each</ans>
+		<ans flag="0">Every</ans>
+		<ans flag="0">All they</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Did_______ happen? No, nothing happened.</BaiTap>
+		<ans flag="0">Nothing</ans>
+		<ans flag="0">Any</ans>
+		<ans flag="0">A thing</ans>
+		<ans flag="1">Anything</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Neither of us spoke. We_______</BaiTap>
+		<ans flag="0">Neither spoke</ans>
+		<ans flag="1">Both didn't speak</ans>
+		<ans flag="0">Either spoke</ans>
+		<ans flag="0">Neither didn’t speak</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>This note is only a reminder. It's_______</BaiTap>
+		<ans flag="1">Nothing</ans>
+		<ans flag="0">No one</ans>
+		<ans flag="0">Nothing extra</ans>
+		<ans flag="0">Nothing more</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>_______ is your favourite sport? Fishing.</BaiTap>
+		<ans flag="1">Which</ans>
+		<ans flag="0">Who</ans>
+		<ans flag="0">Whom</ans>
+		<ans flag="0">Whose</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>The drive gave him a few biscuits; _______ was given a few biscuits.</BaiTap>
+		<ans flag="1">He</ans>
+		<ans flag="0">To him</ans>
+		<ans flag="0">To him</ans>
+		<ans flag="0">His</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>There was nothing else he could do. That was_______</BaiTap>
+		<ans flag="1">All</ans>
+		<ans flag="0">The whole</ans>
+		<ans flag="0">Complete</ans>
+		<ans flag="0">Very</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>One is never too old to learn; _______ are never too old to learn.</BaiTap>
+		<ans flag="0">Everyone</ans>
+		<ans flag="0">They</ans>
+		<ans flag="0">We</ans>
+		<ans flag="1">You</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>Both men realized what was happening; _______ could do anything about it.</BaiTap>
+		<ans flag="0">They neither</ans>
+		<ans flag="0">Neither they</ans>
+		<ans flag="1">Neither of them</ans>
+		<ans flag="0">Either of them</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>He gave_______ which had not been written out.</BaiTap>
+		<ans flag="1">Him a copy</ans>
+		<ans flag="0">The copy to him</ans>
+		<ans flag="0">A copy to him</ans>
+		<ans flag="0">His the copy</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>It is _______ he is very proud of.</BaiTap>
+		<ans flag="0">The fact</ans>
+		<ans flag="0">That which</ans>
+		<ans flag="1">Something</ans>
+		<ans flag="0">What</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>He threatened to remove_______ by force.</BaiTap>
+		<ans flag="1">Them both</ans>
+		<ans flag="0">Two</ans>
+		<ans flag="0">Two of them</ans>
+		<ans flag="0">Both them</ans>
+	</Grammar>
+
+	<Grammar>
+		<BaiTap>They send some books to my sister and _______</BaiTap>
+		<ans flag="0">I</ans>
+		<ans flag="1">Me</ans>
+		<ans flag="0">Mine</ans>
+		<ans flag="0">Myself</ans>
+	</Grammar>
+
+</TracNghiem>
